@@ -15,7 +15,7 @@ export default function SeamCarveProcessor() {
     await new Promise(r => setTimeout(r, 600))
 
     const meta = {
-      author: 'lukelocustjr',
+      author: 'Luke Kerry Locust Junior',
       algorithm: 'Pi Logic Inverse Mirror Seam Carve',
       originalFilename: file.name,
       originalDimensions: { w: 800, h: 600 },
