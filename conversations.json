@@ -1,0 +1,108 @@
+{
+  "profileName": "Non-Standard Math — Luke Locust Jr",
+  "version": "1.0",
+  "description": "Personal profile and working axioms for a non-standard mathematics system: alternative symbols, arithmetic, logic, calculus, geometry, and applied security/steganography uses.",
+  "metadata": {
+    "author": "Luke Kerry Locust Junior",
+    "created": "2026-06-13",
+    "tags": [
+      "non-standard math",
+      "steganography",
+      "positron imaging",
+      "encoding",
+      "mathematical logic"
+    ]
+  },
+  "axiomGroups": [
+    {
+      "category": "Algebra & Arithmetic",
+      "axioms": [
+        {
+          "id": 33,
+          "title": "Non-Standard Arithmetic Operations",
+          "summary": "Defines addition, subtraction, multiplication and division rules in the non-standard representation, including carry/borrow and conversion to base-10 for interoperability."
+        },
+        {
+          "id": 34,
+          "title": "Non-Standard Algebraic Equations",
+          "summary": "Solving and simplifying equations using non-standard variables and representation-aware transforms."
+        }
+      ]
+    },
+    {
+      "category": "Calculus & Geometry",
+      "axioms": [
+        {
+          "id": 35,
+          "title": "Non-Standard Calculus",
+          "summary": "Derivatives, integrals and limits defined over non-standard representations; study behavior of non-standard functions."
+        },
+        {
+          "id": 36,
+          "title": "Non-Standard Geometry",
+          "summary": "Shapes, transformations and measurements expressed and reasoned about in the non-standard numeric system."
+        }
+      ]
+    },
+    {
+      "category": "Number Theory & Logic",
+      "axioms": [
+        {
+          "id": 37,
+          "title": "Non-Standard Number Theory",
+          "summary": "Primality, divisibility and modular-style properties adapted to your representations."
+        },
+        {
+          "id": 38,
+          "title": "Non-Standard Mathematical Logic",
+          "summary": "Logical operators, truth values and proof techniques expressed using the system's symbolic operators (examples: O, !)."
+        },
+        {
+          "id": 41,
+          "title": "Non-Standard Logic Operators",
+          "summary": "Defines semantics for symbolic logic operators (NOT, AND, OR, implication) mapped to the system's symbols."
+        },
+        {
+          "id": 42,
+          "title": "Non-Standard Logic Operations",
+          "summary": "Propositional and predicate logic rules adapted to the non-standard framework; inference and equivalence rules."
+        },
+        {
+          "id": 43,
+          "title": "Number Theory and Logic Interaction",
+          "summary": "Explores how quantifiers and logical formulations interact with number-theoretic statements in the non-standard system."
+        }
+      ]
+    },
+    {
+      "category": "Applied Systems",
+      "axioms": [
+        {
+          "id": 39,
+          "title": "Non-Standard Statistical Analysis",
+          "summary": "Statistical measures and hypothesis testing applied to data encoded under the non-standard system."
+        },
+        {
+          "id": 40,
+          "title": "Non-Standard Mathematical Modeling",
+          "summary": "Build models and simulations that operate in the non-standard domain for applied physics, imaging, or encryption experiments."
+        }
+      ]
+    }
+  ],
+  "applications": [
+    "encryption",
+    "steganography",
+    "secure communication protocols",
+    "positron imaging metadata embedding",
+    "non-standard modeling and simulation"
+  ],
+  "relatedFiles": [
+    "src/components/InvertedMathEncoder.jsx",
+    "src/lib/IntegratedLKLJrDatabase.js",
+    "src/SeamCarveProcessor.jsx",
+    "src/components/MetaViewer.jsx",
+    "src/e2e/headless_test.js"
+  ],
+  "notes": "This file is a living profile. I can expand any axiom into formal definitions, examples, conversion rules, or test vectors. Tell me which axiom to formalize first."
+}

@@ -42,7 +42,7 @@ const InvertedMathEncoder = () => {
     // Log to the positron imaging metadata store and attach to latest seam-carve meta when present
     const entry = {
       source: 'InvertedMathEncoder',
-      author: 'lukelocustjr',
+      author: 'Luke Kerry Locust Junior',
       original: input,
       encoded: r.inverted,
       binary: r.binary,
@@ -63,7 +63,7 @@ const InvertedMathEncoder = () => {
   return (
     <div style={s.container}>
       <div style={s.header}>
-        <span style={s.badge}>lukelocustjr</span>
+        <span style={s.badge}>Luke Kerry Locust Junior</span>
         <span style={s.title}>Inverted Math Encoder</span>
       </div>
 
